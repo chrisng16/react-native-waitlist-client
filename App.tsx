@@ -1,9 +1,4 @@
 import { Container } from 'components/Container';
-// import { supabase } from 'lib/supabase';
-// import { useEffect, useState } from 'react';
-// import { SafeAreaView, ScrollView } from 'react-native';
-// import { Text } from 'react-native';
-// import { Store } from 'types';
 import WaitlistDisplay from 'components/WaitlistDisplay';
 import WaitlistFormModal from 'components/WaitlistFormModal';
 import { supabase } from 'lib/supabase';
